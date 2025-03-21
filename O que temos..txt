@@ -1,0 +1,74 @@
+O que já temos: 
+
+Benefícios
+✅ Melhoria na comunicação entre professores e psicólogos.
+✅ Suporte emocional proativo para alunos.
+✅ Aumento da produtividade e bem-estar no ambiente escolar.
+
+Produto
+Um aplicativo que oferece funcionalidades como:
+✅ Agenda de atendimentos
+✅ Fichamento de progresso dos alunos
+✅ Postagens sobre bem-estar e suporte emocional
+
+Equipes Envolvidas:
+👨‍💻 Desenvolvedores de Software
+👩‍⚕️ Psicólogos Consultores
+📢 Equipe de Marketing e Vendas
+🔧 Equipe de Suporte Técnico
+
+Base de orçamento com sua estrutura de custo:
+💰 Desenvolvimento do Aplicativo: 40% do orçamento
+💰 Marketing para Escolas: 30% do orçamento
+💰 Suporte Técnico e Manutenção: 20% do orçamento
+💰 Contingência e Ferramentas: 10% do orçamento
+
+Linha do tempo:
+📅 Mês 1-3: Desenvolvimento do MVP
+📅 Mês 4-6: Testes e feedback dos usuários
+📅 Mês 7-9: Campanha de marketing
+📅 Mês 10-12: Lançamento oficial
+
+*Noção de quais Leis e Regulamentações envolveria.
+
+Expansões Futuras:
+🏫 Próximos Passos: Ensino médio e superior.
+🏢 Fase Final: Empresas e indústrias, suporte a trabalhadores.
+
+Um exemplar de Requisitos Funcionais:
+🔹 Cadastro de Usuários (alunos, professores e psicólogos)
+🔹 Login e Autenticação (segurança e acesso controlado)
+🔹 Agendamento de Sessões (psicólogos e professores)
+🔹 Envio de Mensagens (com notificações)
+🔹 Criação de Fóruns (discussões e apoio)
+🔹 Geração de Relatórios (progresso dos alunos)
+🔹 Notificações Automáticas (agendamentos e alertas)
+🔹 Exportação de Dados (relatórios e históricos)
+
+(OBS: Os Objetivos SMART são uma metodologia para definir metas de forma clara e eficiente.)
+Objetivos SMART do seu projeto:
+✔ Específico: Criar um aplicativo de comunicação para escolas que conecte professores, psicólogos e alunos.
+✔ Mensurável: Conseguir 80% de adesão dos professores e psicólogos das escolas que utilizarem o app.
+✔ Alcançável: Desenvolver o aplicativo em 6 meses, considerando a equipe e recursos disponíveis.
+✔ Relevante: Resolver o problema da falta de comunicação e melhorar o suporte emocional dos alunos.
+✔ Temporal: Lançar o aplicativo em 12 meses, garantindo tempo para testes, melhorias e marketing.
+
+Hipóteses Fundamentais ou Suposições Estratégicas:
+* Adoção de tecnologia por todos os usuários.
+* Infraestrutura adequada nas escolas (internet e dispositivos).
+* Apoio das instituições educativas.
+* Conformidade com regulamentações de proteção de dados (LGPD/GDPR).
+* Implementação de feedback contínuo.
+* Estabelecimento de parcerias estratégicas.
+
+(OBS:Stakeholders são todas as pessoas ou entidades que possuem interesse no projeto, podendo ser afetadas por ele ou influenciar seu desenvolvimento. Em português, stakeholders podem ser chamados de partes interessadas.)
+Stakeholders: 
+👩‍⚕️ Psicólogos: Principais usuários para agendamentos e feedbacks.
+👨‍🏫 Professores: Envolvidos no acompanhamento do aluno.
+🎓 Alunos: Principal público-alvo para suporte emocional.
+
+
+Riscos
+⚠️ Baixa adesão ao aplicativo.
+⚠️ Dificuldade na implementação técnica em grandes instituições.
+⚠️ Resistência à mudança por parte dos usuários.
